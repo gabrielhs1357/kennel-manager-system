@@ -1,0 +1,31 @@
+{
+  "name": "kms-back-end",
+  "version": "1.0.0",
+  "description": "Back-end do projeto KMS - Kennel Manager System, ou Sistema Gerenciador de Canis -, aplicação web que permite fazer o gerenciamento de baias e animais de canis de qualquer lugar do mundo. Projeto desenvolvido para disciplina da faculdade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel7731s/learning-node-js-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel7731s/learning-node-js-project/issues"
+  },
+  "homepage": "https://github.com/gabriel7731s/learning-node-js-project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.5",
+    "nodemon": "^1.19.2",
+    "require-dir": "^1.2.0"
+  }
+}
