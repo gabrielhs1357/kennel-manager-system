@@ -11,7 +11,6 @@
 
 > Care. Love. Compassion. By using KMS you can easily manage your kennel!
 
-<br />
 <p align="center"><img src=".github/login.png?raw=true" width="1000"/></p>
 <p align="center"><img src=".github/kennel.png?raw=true" width="1000"/></p>
 <p align="center"><img src=".github/add-dog.png?raw=true" width="1000"/></p>
